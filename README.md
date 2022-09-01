@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Prashant's GitHub Banner](./assets/banner.jpg)](https://prashantrawat.com/)
+[![Abhishek's GitHub Banner](./assets/banner.jpg)])
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhishek-pawaskar-a652b01ba/)
 
