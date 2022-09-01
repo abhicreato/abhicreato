@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Abhishek's GitHub Banner](./asset/banner.png)])
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhishek-pawaskar-a652b01ba/)
@@ -17,7 +15,7 @@
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JavaScript&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/AWS-informational?style=flat&logo=JavaScript&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=Amazon&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=0D76A8)
