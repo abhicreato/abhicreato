@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhishek-pawaskar-a652b01ba/)
 
 
-👋 Hi, I’m Abhishek. I am an professional Full stack web developer & AWS Certified Solutions Architect Associate  with good knowledge of back-end techniques. Skilled in Java & JavaScript. I love learning different technologies and using them to make well structured applications. I also love to design systems and fixing minor issues which helps in the long run. I have experience working on projects in a team as well as individually. Other than programming, I spend most of my time playing/watching football.
+👋 Hi, I’m Abhishek. I am an professional Full stack web developer & AWS Certified Solutions Architect Associate  with good knowledge of back-end techniques. Skilled in Java & JavaScript. I love learning different technologies and using them to make well structured applications. I also love to design systems and fixing minor issues which helps in the long run. I have experience working on projects in a team as well as individually. Other than programming, I spend most of my time in Gym and playground playing cricket.
 
 💞️ I’m happy to collaborate on open source projects.
 
