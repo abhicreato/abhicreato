@@ -23,6 +23,16 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=html5&logoColor=white&color=0D76A8)
 
+## &#x1f4c8; GitHub Stats
+
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=abhicreato" alt="abhicreato" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhicreato&show_icons=true&locale=en" alt="abhicreato" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhicreato&" alt="abhicreato" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhicreato&show_icons=true&locale=en&layout=compact" alt="abhicreato" /></p>
+
 
 
 <!--
