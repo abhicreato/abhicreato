@@ -1,7 +1,7 @@
 ![Abhishek's GitHub Banner](./asset/banner.png)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhishek-pawaskar-a652b01ba/)
-[![Leetcode Badge](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%abhiCreato&logo=leetcode&logoColor=yellow)](https://leetcode.com/abhiCreato/)
+[![Leetcode Badge](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FabhiCreato&logo=leetcode&logoColor=yellow)](https://leetcode.com/abhiCreato/)
 
 
 👋 Hi, I’m Abhishek. I am an professional Full stack web developer & AWS Certified Solutions Architect Associate  with good knowledge of back-end techniques. Skilled in Java & JavaScript. I love learning different technologies and using them to make well structured applications. I also love to design systems. I have experience working on projects in a team as well as individually. Other than programming, I spend most of my time in Gym and playground playing cricket.
