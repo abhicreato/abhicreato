@@ -31,6 +31,7 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=0D76A8)
 
+
 <br>
 
 ## &#x1f4c8; GitHub Stats
